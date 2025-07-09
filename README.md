@@ -2,7 +2,7 @@
 
 💻 **Data Scientist** with a background in biomechanics, behavioral science, and applied machine learning  
 📊 I specialize in **time series forecasting**, **computer vision**, and **real-world predictive analytics**  
-🎓 M.S. in Biomechanics | Data Science Bootcamp Graduate (TripleTen)  
+🎓 M.S. in Kinesiology - Biomechanics focus| Data Science Bootcamp Graduate (TripleTen)  
 🧠 Passionate about building data-driven solutions that improve health, movement, and human performance
 
 ---
